@@ -91,4 +91,4 @@ Enjoy the convenience of an automated garage door opener and explore further enh
 
 ---
 
-This README format provides clear instructions and explanations, helping users understand and replicate your project. If you have another project, please provide its code and a brief description, and I'll create a similar README for it.
+
